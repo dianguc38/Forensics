@@ -4,8 +4,8 @@
   `[+]Link tham khảo:` https://whitehat.vn/threads/forensic-6-steganography.2409/ </br>
      <h4>Các mức độ:</h4></br>
         ~-Cơ bản:~</br>
-                &nbsp;&nbsp;+ Dùng các tool Stegsolve,binwalk,exiftool,strings,steghide,audacity,sonic visualiser,wireshark... để xem các thông điệp đơn giản,không dùng các cách encrypt hoặc kỹ thuật steg khác để ẩn thông tin.</br>
-                        &nbsp;> -> Cần nắm rõ, thành thạo xử dụng các công cụ, đặc biệt hiểu rõ đặc điểm khi nào dùng tool a hoặc tool b.</br>
+               <space></space> + Dùng các tool Stegsolve,binwalk,exiftool,strings,steghide,audacity,sonic visualiser,wireshark... để xem các thông điệp đơn giản,không dùng các cách encrypt hoặc kỹ thuật steg khác để ẩn thông tin.</br>
+                        > -> Cần nắm rõ, thành thạo xử dụng các công cụ, đặc biệt hiểu rõ đặc điểm khi nào dùng tool a hoặc tool b.</br>
         ~-Nâng cao:~</br>
                 &nbsp;&nbsp;+ Thông điệp được ẩn bằng các cách phức tạp hơn.</br>
       ví dụ:
