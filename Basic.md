@@ -1,4 +1,4 @@
-**<h2>0.Steganography</h2>**
+***<h2>0.Steganography</h2>***
 
   `[+] Là gì:` Là kỹ thuật giấu các thông điệp,tin nhắn, hình ảnh,bla bla dưới dạng một thông điệp,hình ảnh ,bla bla khác. Nhằm mục đích chỉ dành cho những người có kỹ năng, mật khẩu,... xem được.</br>
   `[+]Link tham khảo:` [Tại đây](https://whitehat.vn/threads/forensic-6-steganography.2409/) </br>
@@ -24,7 +24,7 @@
 * https://dominicbreuker.com/post/stego_book_of_secrets/ </br>
       > Đọc 10 page đầu google về từ khóa này!
    
-1 Image (ổ đĩa)
+***<h2>1.Image (ổ đĩa)</h2>***
   [+] Là gì: Giống như 1 phần ổ đĩa, và bạn có nhiệm vụ khai thác những dữ liệu bên trong
   [-] Khi được cung cấp file ổ đĩa, cần mount(gắn) file ổ đĩa như ổ đĩa thông thường trong máy tính, dùng các công cụ như autopsy,FTK,.. để recover ỗ đĩa.
   [-]: Các solution:
