@@ -4,11 +4,11 @@
   `[+]Link tham khảo:` [Tại đây](https://whitehat.vn/threads/forensic-6-steganography.2409/) </br>
      <h3>Các mức độ:</h3>
         <h4>Cơ bản:</h4>
-                + Dùng các tool Stegsolve,binwalk,exiftool,strings,steghide,audacity,sonic visualiser,wireshark... để xem các thông điệp đơn giản,không dùng các cách encrypt hoặc kỹ thuật steg khác để ẩn thông tin.</br>
+                - Dùng các tool Stegsolve,binwalk,exiftool,strings,steghide,audacity,sonic visualiser,wireshark... để xem các thông điệp đơn giản,không dùng các cách encrypt hoặc kỹ thuật steg khác để ẩn thông tin.</br>
    > Cần nắm rõ, thành thạo xử dụng các công cụ, đặc biệt hiểu rõ đặc điểm khi nào dùng tool a hoặc tool b.</br>
    
  <h4>Nâng cao:</h4>
- + Thông điệp được ẩn bằng các cách phức tạp hơn.</br>
+ - Thông điệp được ẩn bằng các cách phức tạp hơn.</br>
                 
  `[+]ví dụ:`</br>
           I.Dùng các mã màu rgb để tương đương với mã char ẩn thông điệp,crypto để mã hóa thông điệp 2 x n lớp. </br>
@@ -23,6 +23,7 @@
 * https://medium.com/@kamransaifullah786/hsctf-6-forensics-challenges-solutions-162da84549db
 * https://shankaraman.wordpress.com/category/ctf/stegano/
 * https://dominicbreuker.com/post/stego_book_of_secrets/ </br>
+
    > Đọc 3 page đầu google về từ khóa này!</br>
    
 ***<h2>1.Image (ổ đĩa)</h2>***
