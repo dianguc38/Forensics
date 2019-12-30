@@ -21,7 +21,7 @@
 * https://medium.com/@kamransaifullah786/hsctf-6-forensics-challenges-solutions-162da84549db
 * https://shankaraman.wordpress.com/category/ctf/stegano/
 * https://dominicbreuker.com/post/stego_book_of_secrets/ </br>
-      > Đọc 10 page đầu google về từ khóa này!</br>
+   > Đọc 3 page đầu google về từ khóa này!</br>
    
 ***<h2>1.Image (ổ đĩa)</h2>***
   `[+] Là gì:` Giống như 1 phần ổ đĩa, và bạn có nhiệm vụ khai thác những dữ liệu bên trong
@@ -31,6 +31,7 @@
   * https://codisec.com/whitehat11-wyginwys/
   * http://periciadigitaldf.blogspot.com/ </br>
    > Đọc 3 page đầu google về từ khóa này!</br>
+   
 ***<h2>2.Network Forensic</h2>***
   `[+] Là gì:` Khai thác các thông tin được truy xuất qua mạng, các tập tin phân tích thường là các tập tin pcap đã snap bằng wireshark,tshark,...
   `[+] Cần:` Hiểu về các kiến thức network: Protocol,method,tcp,ip,...,sử dụng thành thạo một số công cụ như wireshark,tshark,...
