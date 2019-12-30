@@ -14,21 +14,13 @@
           III... </br>
               -> Cần hiểu rõ các khái niệm ví dụ, RGB, decode cơ bản, khóa GPB,header signature,... </br>
               -> Thông thạo một số ngôn ngữ lập trình, coding giải quyết các vấn đề tìm thông điệp khi các công cụ cơ bản không áp dụng được. </br>
-   `[+]: Các solution:`</br>
+   ####Các solution:
       * https://medium.com/@FourOctets/ctf-tidbits-part-1-steganography-ea76cc526b40 </br>
       * https://github.com/shiltemann/CTF-writeups-public/blob/master/IceCTF-2018/writeup.md </br>
       * https://medium.com/@kamransaifullah786/hsctf-6-forensics-challenges-solutions-162da84549db </br>
       * https://shankaraman.wordpress.com/category/ctf/stegano/ </br>
       * https://dominicbreuker.com/post/stego_book_of_secrets/ </br>
-      #### Một số tính năng của OllyDbg:
-* Giao diện người dùng trực quan dễ hiểu.
-* Phân tích code - traces register, procedures, loops, API calls, switches, tables, constants and strings.
-* Loads và debugs DLLs.
-* Quét các đối tượng liên quan.
-* Cho phép người dùng define label, comments và mô tả function.
-* Hiển thị thông tin debug ở dưới dạng Borland.
-* Hỗ trợ lưu các bản vá và ghi chúng vào file thực thi.
-* Là phần mềm mã nguồn mở - vì thế nên nó có rất nhiều flugins.
+
    => Đọc 10 page đầu google về từ khóa này!
    
 1 Image (ổ đĩa)
