@@ -2,7 +2,7 @@
 
   `[+] Là gì:` Là kỹ thuật giấu các thông điệp,tin nhắn, hình ảnh,bla bla dưới dạng một thông điệp,hình ảnh ,bla bla khác. Nhằm mục đích chỉ dành cho những người có kỹ năng, mật khẩu,... xem được.</br>
   `[+]Link tham khảo:` https://whitehat.vn/threads/forensic-6-steganography.2409/ </br>
-  ~##Nội dung chính:~</br>
+ <h1><font color='red'>Nội dung chính</font></h1></br>
   ###Các mức độ:
   -Cơ bản:
       + Dùng các tool Stegsolve,binwalk,exiftool,strings,steghide,audacity,sonic visualiser,wireshark... để xem các thông điệp đơn giản,không dùng các cách encrypt hoặc kỹ thuật steg khác để ẩn thông tin.
