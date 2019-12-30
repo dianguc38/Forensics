@@ -22,8 +22,7 @@
 * https://medium.com/@kamransaifullah786/hsctf-6-forensics-challenges-solutions-162da84549db
 * https://shankaraman.wordpress.com/category/ctf/stegano/
 * https://dominicbreuker.com/post/stego_book_of_secrets/ 
-
-   => Đọc 10 page đầu google về từ khóa này!
+       => Đọc 10 page đầu google về từ khóa này!
    
 1 Image (ổ đĩa)
   [+] Là gì: Giống như 1 phần ổ đĩa, và bạn có nhiệm vụ khai thác những dữ liệu bên trong
