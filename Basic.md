@@ -43,7 +43,7 @@
       - Các dạng bài sử dụng giao thức không mã hóa http để trao đổi, chúng ta cần follow các gói tin đó để tìm ra thông điệp, hoặc các thông điệp được ẩn giấu mà không dùng kĩ thuật gì cao siêu.</br>
   <h4>Nâng cao:</h4>
       - Sử dụng giao thức mã hóa https,tcp,dhcp,... Các gói tin truyền tải đều có thể chứa thông điệp, cần follow kĩ,nâng cao hơn là các dạng bài dùng các khóa công khai,khóa bí mật xyz đễ giải mã các thông điệp bị mã hóa. </br>
-`[+] Các solution:`
+   `[+] Các solution:`
   * https://infamoussyn.wordpress.com/2013/07/16/cysca-13-network-forensic-question-writeup/
   * https://leigh-annegalloway.com/44con-ctf-writeup/
   * https://github.com/ctfs/write-ups-2016/tree/master/su-ctf-2016/forensics/network-forensics-200/ </br>
@@ -71,4 +71,4 @@
  `~[*]Kết :~ 
  -Mảng này không phãi chỉ cần đọc nhiều mà cần làm nhiều để rèn luyện. Mảng này cần khá nhiều kiến thức kinh nghiệm để biết rằng vói bài này thì cần dùng cách nào để forensics.
  -Con đường tốt nhất để hiểu: Hãy tìm hiểu tại sao người ra đề tạo ra được file ẩn thông điệp đó, hoặc tự ra đề cho chính bẩn thân.`</br>
----CẢM ƠN - CHÚC MAY MẮN ---
+<h1>---CẢM ƠN - CHÚC MAY MẮN ---<h1>
