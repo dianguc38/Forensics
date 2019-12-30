@@ -67,4 +67,4 @@
  Kết : 
  -Mảng này không phãi chỉ cần đọc nhiều mà cần làm nhiều để rèn luyện. Mảng này cần khá nhiều kiến thức kinh nghiệm để biết rằng vói bài này thì cần dùng cách nào để forensics.
  -Con đường tốt nhất để hiểu: Hãy tìm hiểu tại sao người ra đề tạo ra được file ẩn thông điệp đó, hoặc tự ra đề cho chính bẩn thân
- ====================================CẢM ƠN- CHÚC MAY MẮN ================================================
+ ====================================CẢM ƠN- CHÚC MAY MẮN ===============================================
