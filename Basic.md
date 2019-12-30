@@ -5,15 +5,15 @@
      <h3>Các mức độ:</h3>
         <h4>Cơ bản:</h4>
                 + Dùng các tool Stegsolve,binwalk,exiftool,strings,steghide,audacity,sonic visualiser,wireshark... để xem các thông điệp đơn giản,không dùng các cách encrypt hoặc kỹ thuật steg khác để ẩn thông tin.</br>
-                        > Cần nắm rõ, thành thạo xử dụng các công cụ, đặc biệt hiểu rõ đặc điểm khi nào dùng tool a hoặc tool b.</br>
+   > Cần nắm rõ, thành thạo xử dụng các công cụ, đặc biệt hiểu rõ đặc điểm khi nào dùng tool a hoặc tool b.</br>
         <h4>Nâng cao:</h4>
                 + Thông điệp được ẩn bằng các cách phức tạp hơn.</br>
  `[+]ví dụ:`</br>
           I.Dùng các mã màu rgb để tương đương với mã char ẩn thông điệp,crypto để mã hóa thông điệp 2 x n lớp. </br>
           II.Thay đổi signature hình ảnh hoặc thay đổi tất cả các byte hex của tệp, xor với 1 key nào đó. </br>
           III... </br>
-              > Cần hiểu rõ các khái niệm ví dụ, RGB, decode cơ bản, khóa GPB,header signature,... </br>
-              > Thông thạo một số ngôn ngữ lập trình, coding giải quyết các vấn đề tìm thông điệp khi các công cụ cơ bản không áp dụng được. </br>
+   > Cần hiểu rõ các khái niệm ví dụ, RGB, decode cơ bản, khóa GPB,header signature,... </br>
+   > Thông thạo một số ngôn ngữ lập trình, coding giải quyết các vấn đề tìm thông điệp khi các công cụ cơ bản không áp dụng được. </br>
   
  `[+] Các solution:`
 * https://medium.com/@FourOctets/ctf-tidbits-part-1-steganography-ea76cc526b40
