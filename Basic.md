@@ -15,14 +15,14 @@
               -> Cần hiểu rõ các khái niệm ví dụ, RGB, decode cơ bản, khóa GPB,header signature,... </br>
               -> Thông thạo một số ngôn ngữ lập trình, coding giải quyết các vấn đề tìm thông điệp khi các công cụ cơ bản không áp dụng được. </br>
   
-      * https://medium.com/@FourOctets/ctf-tidbits-part-1-steganography-ea76cc526b40 .
+      * .
       * https://github.com/shiltemann/CTF-writeups-public/blob/master/IceCTF-2018/writeup.md .
       * https://medium.com/@kamransaifullah786/hsctf-6-forensics-challenges-solutions-162da84549db 
       * https://shankaraman.wordpress.com/category/ctf/stegano/ 
       * https://dominicbreuker.com/post/stego_book_of_secrets/ 
       
  `[+] Các solution:`
-* Giao diện người dùng trực quan dễ hiểu.
+* https://medium.com/@FourOctets/ctf-tidbits-part-1-steganography-ea76cc526b40 .
 * Phân tích code - traces register, procedures, loops, API calls, switches, tables, constants and strings.
 * Loads và debugs DLLs.
 * Quét các đối tượng liên quan.
